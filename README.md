@@ -2,7 +2,7 @@
 
 بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ  
 
-I swear, this is going to be epic.
+This is going to be epic.
 
 ## Design Layout
 
