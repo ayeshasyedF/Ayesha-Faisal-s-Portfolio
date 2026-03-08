@@ -21,3 +21,8 @@ personal-website/
 │   ├── graphics/
 │   └── data/
 └── package.json
+
+# Libraries
+TypeScript, React
+
+# Languages
